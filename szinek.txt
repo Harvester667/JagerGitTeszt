@@ -3,3 +3,4 @@ zöld
 fekete
 fehér
 lila
+átlátszó
