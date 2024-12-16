@@ -4,3 +4,4 @@ fekete
 fehér
 lila
 indián piros
+átlátszó
