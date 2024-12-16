@@ -2,3 +2,4 @@ piros
 zöld
 fekete
 fehér
+lila
